@@ -3,9 +3,7 @@
   "name": "ころね抱きつき難易度表",
   "symbol": "圧",
   "level_order": [0, 1, 2, 3],
-  "course": [
-    
-      {
+  "course": {
         "name": "ころね中伝",
         "constraint": ["grade_mirror"],
         "trophy": [
@@ -27,6 +25,4 @@
           "73624905d4a66fd9cb3f4462d25fa102"
         ]
       }
-    ]
-  
 }
