@@ -1,9 +1,10 @@
 {
-    "data_url": "https://script.googleusercontent.com/macros/echo?user_content_key=--VC0biDQU4Jk1TUs5ad82QVKe3UeLXvJXd1MpLxSHuF35GgOuRqTB3Q4peEst3T7qTnuYaEMcLYFymACwUxlSMpFGiAGfuum5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnGu69nBkEntlR6chvX1hTOT2fM67wjPea_n-R21T7tVvK45tXRh3R4IGcRTQHcYAMeQqzkhSVOAdNbDE8Sn3T8ePchYPo9S2LA&lib=MevDqbjZ1QgovK86Q5X-3uRqAhSBVlbUe",
-    "name" : "ころね抱きつき難易度表",
-    "symbol" : "圧",
-    "level_order" : [0,1,2,3] 
-    "course":[
+
+"data_url": "https://script.googleusercontent.com/macros/echo?user_content_key=--VC0biDQU4Jk1TUs5ad82QVKe3UeLXvJXd1MpLxSHuF35GgOuRqTB3Q4peEst3T7qTnuYaEMcLYFymACwUxlSMpFGiAGfuum5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnGu69nBkEntlR6chvX1hTOT2fM67wjPea_n-R21T7tVvK45tXRh3R4IGcRTQHcYAMeQqzkhSVOAdNbDE8Sn3T8ePchYPo9S2LA&lib=MevDqbjZ1QgovK86Q5X-3uRqAhSBVlbUe",
+"name" : "ころね抱きつき難易度表",
+"symbol" : "圧",
+"level_order" : [0,1,2,3] 
+"course":[
 	[
 		{
 			"name":"ころね中伝",
