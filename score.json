@@ -1,0 +1,101 @@
+[
+  {
+    "level": "圧0",
+    "title": "音楽（横スクロールと木曜９時のための） [そんなこと言ったってしょうがないじゃないかnother]",
+    "artist": "Yosk! obj:bella_juri",
+    "comment": "同梱譜面のアレンジ",
+    "url": "",
+    "md5": "fa39618c3b31fa6aed2c6f9cf04dbebb",
+    "sha256": "01ffdd3072b06e0e458dc47bb8d31b0788a6e03e4dcee33fa35ba1df0cce13c7"
+  },
+  {
+    "level": "圧0",
+    "title": "2038 [SCLN-easy]",
+    "artist": "Yamajet obj:bella_juri",
+    "comment": "【追加ファイル】声ネタを音切りした",
+    "url": "",
+    "md5": "4032e792e02526c5939e8defae7eb537",
+    "sha256": "5238c46460eba9d12900aba46cc26239ee1e8a3c2c60445e401f1977d6f8f87f"
+  },
+  {
+    "level": "圧1",
+    "title": "Blue Screen of Death [SCCD]",
+    "artist": "oxygen obj:bella_juri",
+    "comment": "　　",
+    "url": "",
+    "md5": "03842965b82384d547b650085a4f3e4f",
+    "sha256": "9bd1a6915603025b642a1a292e14d50d4a299b57459cb60e17a47ac993b22512"
+  },
+  {
+    "level": "圧2",
+    "title": "Blah Dha [SC]",
+    "artist": "saaa obj:bella_juri",
+    "comment": "　　",
+    "url": "",
+    "md5": "c103d7d8e570f71c96cb6b8798f2ba3c",
+    "sha256": "382ee428e73db24bccdfa391d50b0ca2fec6de7f5aae6c9a22c15798c11a559c"
+  },
+  {
+    "level": "圧2",
+    "title": "MAGENTA POTION [SC]",
+    "artist": "EmoCo. × NO|SER obj:bella_juri",
+    "comment": "　　",
+    "url": "",
+    "md5": "5d9d78fc017f7b3ed0b6ae72dcb9d344",
+    "sha256": "50899c1c3a75e29e42d6217c370d21c0480183c4e9b34a5aa6734535452542db"
+  },
+  {
+    "level": "圧2",
+    "title": "2038 [SCLN]",
+    "artist": "Yamajet obj:bella_juri",
+    "comment": "【追加ファイル】声ネタを音切りした",
+    "url": "",
+    "md5": "f7444b7e3a64c9b98c370d8ea726cbf3",
+    "sha256": "b5f3ab95420acef949906b0dce6aacf9769500e6796f76627bc3a429b8dd4111"
+  },
+  {
+    "level": "圧2",
+    "title": "Drift TAXI [SC]",
+    "artist": "∀S∀ obj:Bella_Juri",
+    "comment": "　　",
+    "url": "",
+    "md5": "1e548fdbd1f46bbcec990083aaed7f3f",
+    "sha256": "bb08139f9a3064a7be6fdbfbe0f49bddc49502cacba9748dee716ee755b8e4ef"
+  },
+  {
+    "level": "圧2",
+    "title": "Mario Paint (Time Regression Mix for BMS) [D-ANTHEM]",
+    "artist": "ueotan obj:Bella_juri",
+    "comment": "【原曲改変】某「夜明け」のオマージュ",
+    "url": "",
+    "md5": "195c047224ff92ccc9703e1349cc9b0b",
+    "sha256": "9e5f80e41516194ab36fab64e8e2f3c0c9a5e2fb51575843d996f7f9674268a1"
+  },
+  {
+    "level": "圧3",
+    "title": "Blah Dha [SC-Extra]",
+    "artist": "saaa obj:bella_juri",
+    "comment": "　　",
+    "url": "",
+    "md5": "637e1ce502e26b069ff859c33ae31820",
+    "sha256": "77d6c2d01b83b7846c87cc341ecfb1f80a7ba267689ffe4fcdfb8a623f821b01"
+  },
+  {
+    "level": "圧3",
+    "title": "Inception [GroundBreaking]",
+    "artist": "OptiU / mov. Can.D -mtmrw obj:bella_juri",
+    "comment": "【ファイル名変更】",
+    "url": "",
+    "md5": "73624905d4a66fd9cb3f4462d25fa102",
+    "sha256": "a74c5e7f0d46c9b5d78441f80f265bde2f64f3abb8fcb039a68282d5be379818"
+  },
+  {
+    "level": "圧3",
+    "title": "Inception [GroundBreaking HCN+]",
+    "artist": "OptiU / mov. Can.D -mtmrw obj:bella_juri",
+    "comment": "【ファイル名変更】【強制HCNモード】",
+    "url": "",
+    "md5": "976c6eb1d4e8791c89360eef7a390f28",
+    "sha256": "e6fdc6d95478fdae1709efb66137009199c763385af72fc62b64d3e95af8a2fe"
+  }
+]
