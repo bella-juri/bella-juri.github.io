@@ -4,7 +4,7 @@
   "symbol": "圧",
   "level_order": [0, 1, 2, 3],
   "course": [
-    [
+    
       {
         "name": "ころね中伝",
         "constraint": ["grade_mirror"],
@@ -28,5 +28,5 @@
         ]
       }
     ]
-  ]
+  
 }
