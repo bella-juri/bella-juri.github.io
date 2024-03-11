@@ -3,4 +3,38 @@
     "name" : "ころね抱きつき難易度表",
     "symbol" : "圧",
     "level_order" : [0,1,2,3] 
+    "course":[
+	[
+		{
+			"name":"ころね中伝",
+			"constraint":["grade_mirror"],
+			"trophy":[
+				{
+					"name":"silvermedal",
+					"missrate":5.0,
+					"scorerate":70.0
+				},
+				{
+					"name":"goldmedal",
+					"missrate":2.5,
+					"scorerate":85.0
+				}
+			],
+			"md5":[
+				"f7444b7e3a64c9b98c370d8ea726cbf3",
+				"fc7d46e7bbc9f6afd26d05e3bf2ef555",
+				"195c047224ff92ccc9703e1349cc9b0b",
+				"73624905d4a66fd9cb3f4462d25fa102"
+			]
+		},
+		.
+		.
+		.			
+	],
+	[
+		.
+		.
+		.
+	]
+]
 }
