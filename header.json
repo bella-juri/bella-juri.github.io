@@ -4,7 +4,7 @@
   "symbol": "圧",
   "level_order": [0, 1, 2, 3],
   "course":[[ {
-        "name": "ころね中伝",
+        "name": "ゆびゆび中伝",
         "constraint": ["grade_mirror"],
         "trophy": [
           {
@@ -23,6 +23,28 @@
           "5d9d78fc017f7b3ed0b6ae72dcb9d344",
           "195c047224ff92ccc9703e1349cc9b0b",
           "73624905d4a66fd9cb3f4462d25fa102"
+        ]
+      }
+     {
+        "name": "ゆびゆび皆伝",
+        "constraint": ["grade_mirror"],
+        "trophy": [
+          {
+            "name": "silvermedal",
+            "missrate": 5.0,
+            "scorerate": 70.0
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85.0
+          }
+        ],
+        "md5": [
+          "81f5f9ad4b1323465b8783c18b7930a0",
+          "955b632e10a9ebc92df95269bc034eed",
+          "b865b7c2590014f3f08044efd5ac905e",
+          "33fbdc026a5abd5aea2256a4bfabd901"
         ]
       }
   ]
